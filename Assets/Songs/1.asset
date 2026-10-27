@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa5d5db38108390ca978c77f30f0faf0, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  songTitle: Rhythm Tutorial
+  musicClip: {fileID: 8300000, guid: e3903f052f6e1c84385cd598b244e788, type: 3}
+  bpm: 126
+  difficulties:
+  - difficultyName: Easy
+    fallSpeed: 3
+    notes: []
+  - difficultyName: Normal
+    fallSpeed: 5
+    notes: []
+  - difficultyName: Hard
+    fallSpeed: 7
+    notes: []
